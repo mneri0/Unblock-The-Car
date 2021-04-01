@@ -1,7 +1,10 @@
 # Rush Hour
 
+## About
+
 RushHour is a video game first developed by clockwork entertainment for playstation and windows with a high-level, top-down view of the cars and tracks based on a sliding block puzzle game invented by Nob Yoshigahara in the 1970s. The aim of this game is to find a path for the players car out of the parking lot by removing all the obstacles blocking the exit.
 
+### How to Run
 To run the game download the  rushhour/src
 There are a total of 7 files:
 1. car.h
